@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on recreate fear&greed Index for crypto market<br>👯 I’m looking to collaborate on many project<br>🤝 I’m looking for  an internship in Data<br>🌱 I’m currently learning spark,Kafka,python etc ...<br>
+🔭 I’m currently working on recreate fear&greed Index for crypto market<br> 🤝I’m looking to collaborate on many project<br>🤝 I’m looking for  an internship in Data<br>🌱 I’m currently learning spark,Kafka,python etc ...<br>
 
 
 ## 🌐 Socials:
